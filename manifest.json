@@ -1,0 +1,56 @@
+{
+  "game": "Sol One",
+  "game_version": "0.1.5EA",
+  "game_build": "2026-11-17 / 1d72058507e6e226",
+  "patch_version": "1.0.0",
+  "files": [
+    {
+      "file": "Sol One_Data/level0",
+      "original_sha256": "1e39f09270fdd9eb09c7f944644bb4a9e97c48775e8011a7c5b3258b43bf2cd1",
+      "patched_sha256": "783955f8b4487792adef6c14e648470e42d4ecf1bffbcccfbf2c09b1b7c92088",
+      "patch": "patch-1.soltr",
+      "patch_sha256": "24a6cf19c773de3b3328266ad5d963b82b022b3624e3432108fa5c2d42e422ed",
+      "patched_length": 1253776
+    },
+    {
+      "file": "Sol One_Data/level1",
+      "original_sha256": "b3cd35b3d1a2e593d06f52e7a3382aee5033f13ba98d859b12527c94ced6ebaf",
+      "patched_sha256": "31f8e8e7d7194a7e9a92747c0f12853f1380c8ed30d6b52e309cf0c01df176a2",
+      "patch": "patch-2.soltr",
+      "patch_sha256": "6df7b801439209171999c42ae8c7e111fa88c3956b91efa9c346ebded550fb3d",
+      "patched_length": 1660560
+    },
+    {
+      "file": "Sol One_Data/resources.assets",
+      "original_sha256": "e83fb0cac4735eba808d252a08677aeed367a902090d3528430b58f413df162f",
+      "patched_sha256": "1e7e7b53aa4d2dc68a264ab63bf0ff02e5f61575541ee2677e03173a72bdc385",
+      "patch": "patch-3.soltr",
+      "patch_sha256": "0827728bb36a8ec8407a7024a49bae58abe8ba1dcde0b4389714f7d40e1a2d20",
+      "patched_length": 167201704
+    },
+    {
+      "file": "Sol One_Data/sharedassets0.assets",
+      "original_sha256": "288e63acc08de5386f5a4e5baeec5b05357c659ef71561693e3654e3a4a09cc9",
+      "patched_sha256": "928988db40b19a2987a2cfb3e8e33eab1a53e9f14109a73e46517414a5431bc1",
+      "patch": "patch-4.soltr",
+      "patch_sha256": "548ff26a5385479baaea3f0609a286e6c5c2a424a67edf33316b05cd85029873",
+      "patched_length": 1106205328
+    },
+    {
+      "file": "Sol One_Data/sharedassets1.assets",
+      "original_sha256": "cc1ec07af18cb24e2c2cbb41791a9456928c998544492751e749c4d135a82f09",
+      "patched_sha256": "5457cfc78100747780adbb7e18e48350dcf001995264a8b4f116bc75c5f32cc8",
+      "patch": "patch-5.soltr",
+      "patch_sha256": "727b6f7762d514170ff6f84ede9fc82289442ac18278b9dc090608d9d28ce9de",
+      "patched_length": 111464384
+    },
+    {
+      "file": "Sol One_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "original_sha256": "d9572b3ae7e1c6f008a4654489eb3e911dd06546b61e5847012527b62cfee5da",
+      "patched_sha256": "71af2b167fe6fa3a1937efda0326faf165aa1a3e0bdd59c4881097b56849ef5f",
+      "patch": "patch-6.soltr",
+      "patch_sha256": "7581d6a23c1ccb096e90bc7b974d093c4561f69eb3c42fe7d54c1d09a76d9e2e",
+      "patched_length": 16679119
+    }
+  ]
+}

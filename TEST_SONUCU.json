@@ -1,0 +1,47 @@
+{
+  "game_version": "0.1.5EA",
+  "patch_version": "1.0.0",
+  "date": "2026-11-24",
+  "tests": [
+    {
+      "test": "Verify clean files without installing",
+      "passed": true,
+      "seconds": 5.39
+    },
+    {
+      "test": "Install",
+      "passed": true,
+      "seconds": 7.71
+    },
+    {
+      "test": "Idempotent reinstall",
+      "passed": true,
+      "seconds": 2.53
+    },
+    {
+      "test": "Restore originals",
+      "passed": true,
+      "seconds": 7.19
+    },
+    {
+      "test": "Idempotent restore",
+      "passed": true,
+      "seconds": 2.46
+    },
+    {
+      "test": "Reject incompatible game before mutation",
+      "passed": true,
+      "seconds": 0.07
+    },
+    {
+      "test": "Reject corrupted patch payload before mutation",
+      "passed": true
+    }
+  ],
+  "game_checks": [
+    "Turkish main menu",
+    "manual item names and keyboard tokens resolved",
+    "new expedition and in-game HUD"
+  ],
+  "scope": "Opening checks only; full playthrough not performed"
+}
